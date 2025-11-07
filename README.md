@@ -9,4 +9,4 @@ Tech Stack :
 - Lottie
 
 Deploy :
--Vercel
+- Vercel
