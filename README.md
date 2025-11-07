@@ -2,8 +2,11 @@
 
 This is my portofolio profile website
 
-Tech Stack
+Tech Stack :
 - React
 - Tailwind
 - Vite
 - Lottie
+
+Deploy :
+-Vercel
